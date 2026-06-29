@@ -47,11 +47,11 @@ export default function PortfolioPage() {
       </Reveal>
 
       <Reveal as="section" className="archive-note">
-        <p className="eyebrow">Currently shaping</p>
-        <h2>Two new projects are in the studio.</h2>
+        <p className="eyebrow">Coming soon</p>
+        <h2>More work is on the way.</h2>
         <p>
-          We take a small number of new engagements each quarter. If yours is the kind of brand we should
-          be looking at, get in touch and we will tell you honestly whether we are the right fit.
+          Brand systems, websites, and content launches are in production right now — and they land
+          on this page in the coming weeks. If you want yours to be next, the door is open.
         </p>
         <Link className="button button--primary" href="/contact">Start a project</Link>
       </Reveal>
